@@ -1,0 +1,6 @@
+{
+  "name": "CarbonTrack",
+  "description": "Open-source carbon footprint calculator for individuals and small businesses with configurable emission factors, transparent methodologies, scenario modeling, and historical analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
